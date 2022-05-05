@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TigranBalayan10/photo-port/static/css/main.de94d79f.chunk.css",
-    "main.js": "/TigranBalayan10/photo-port/static/js/main.68b4320a.chunk.js",
-    "main.js.map": "/TigranBalayan10/photo-port/static/js/main.68b4320a.chunk.js.map",
+    "main.js": "/TigranBalayan10/photo-port/static/js/main.0c99908f.chunk.js",
+    "main.js.map": "/TigranBalayan10/photo-port/static/js/main.0c99908f.chunk.js.map",
     "runtime-main.js": "/TigranBalayan10/photo-port/static/js/runtime-main.657aa21c.js",
     "runtime-main.js.map": "/TigranBalayan10/photo-port/static/js/runtime-main.657aa21c.js.map",
     "static/js/2.9f927e1a.chunk.js": "/TigranBalayan10/photo-port/static/js/2.9f927e1a.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.657aa21c.js",
     "static/js/2.9f927e1a.chunk.js",
     "static/css/main.de94d79f.chunk.css",
-    "static/js/main.68b4320a.chunk.js"
+    "static/js/main.0c99908f.chunk.js"
   ]
 }
